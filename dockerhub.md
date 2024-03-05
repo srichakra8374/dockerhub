@@ -6,7 +6,7 @@
 
 3. used tag command to tag my image to the "docker-repo" repository.
 ```commandline
-   DOCKER TAG <IMAGE_NAME:TAG NAMESPACE/REPOSITORY:TAG>
+   DOCKER TAG <IMAGE_NAME>
    ```
 
 4. Pushed the changes to docker repository
