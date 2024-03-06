@@ -7,9 +7,11 @@
 3. used tag command to tag my image to the "dockerhub" repository.
 ```commandline
    DOCKER TAG <IMAGE_NAME>
+   eg : docker tag myflaskapp
    ```
 
 4. Pushed the changes to docker repository
 ```commandline
    DOCKER PUSH <NAMESPACE/REPOSITORY:TAG>
+   eg : docker push srichakra769/dockerhub:latest
    
