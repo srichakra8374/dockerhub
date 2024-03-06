@@ -4,7 +4,7 @@
 
 2. created a new repository in docker hub.
 
-3. used tag command to tag my image to the "docker-repo" repository.
+3. used tag command to tag my image to the "dockerhub" repository.
 ```commandline
    DOCKER TAG <IMAGE_NAME>
    ```
