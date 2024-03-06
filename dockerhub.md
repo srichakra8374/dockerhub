@@ -16,7 +16,7 @@
    DOCKER PUSH <NAMESPACE/REPOSITORY:TAG>
    eg : docker push srichakra769/dockerhub:latest
 ```
-5. Pushed image from user bobby to my local
+5. Pulled image from user bobby to my local
 ```commandline
     docker pull <NAMESPACE/REPOSITORY:TAG>
     eg : docker pull bojyanath/dockerrepo:latest
